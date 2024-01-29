@@ -6,5 +6,3 @@ function hero(p, d){
         }
 
     }
-
-console.log(hero(1, 5));
